@@ -1,0 +1,125 @@
+body{
+  font-family: "Montserrat-Black";
+}
+.iphone6{
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 180px;
+}
+#title{
+  background-color: #ff4C68;
+  color: #fff;
+}
+.container-fluid{
+  padding: 3% 15%;
+}
+h1{
+  font-family: "Montserrat";
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+h2{
+  font-family: "Montserrat";
+  font-size: 3rem;
+
+}
+h3{
+  font-family: "Montserrat";
+}
+p{
+  color: #8f8f8f;
+}
+.iphone6{
+  border: 1px solid #ff4C68;
+}
+        /* navigation Bar */
+.navbar-brand{
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+.navbar{
+  padding:0  4.5rem;
+}
+.nav-item{
+  padding: 0 18px;
+}
+.nav-link{
+  font-size: 1.2rem;
+  font-family: "Montserrat-light";
+}
+.default-color{
+  background-color: none;
+}
+   /* Download-Button */
+.btn{
+  margin: 5% 3% 5% 0;
+}
+             /* Title-Image */
+.title-image{
+  width: 35%;
+  transform: rotate(20deg);
+  padding-top: 20px;
+}
+       /* features section */
+#features{
+  padding: 7% 15%;
+  background-color: #fff;
+
+
+}
+.feature-box{
+  text-align: center;
+  padding: 5%;
+}
+.Icon{
+  color:#ef8172;
+    margin-bottom: 1rem;
+}
+.Icon:hover{
+  color: #ff4C68;
+}
+.latestpaper-hover:hover{
+  color: #000;
+}
+.link-hover:hover{
+  color:#000;
+}
+.upload-hover:hover{
+  color:#000;
+}
+        /* App Future Section */
+#app-future{
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #ef8172;
+  color: #fff;
+  padding-bottom: 0px;
+}
+.app-image{
+  width: 19%;
+  padding-bottom: 5%;
+   margin-left: 90px;
+}
+/* -------------------------- */
+.trying{
+  padding-top: 50px;
+}
+      /* Title Section */
+.title{
+  padding-left: 77px;
+}
+
+
+        /* <!-- Footer --> */
+
+.footer{
+    background-color: #D8D8D8;
+    padding: 1% 1%;
+    text-align: center;
+}
+.footer2{
+
+ padding-bottom: :20px;
+}
